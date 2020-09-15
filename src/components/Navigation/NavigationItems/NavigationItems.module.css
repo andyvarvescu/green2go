@@ -1,0 +1,19 @@
+/* MOBILE settings */
+.NavigationItems {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    height: 100%;
+    border-radius: 7px;
+    box-shadow: 0 0 7px #888888;
+}
+
+/* DESKTOP settings */
+@media (min-width: 500px) {
+    .NavigationItems {
+        flex-flow: row;
+    }
+}

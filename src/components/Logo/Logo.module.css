@@ -1,0 +1,21 @@
+.Logo {
+    margin-left: 10px;
+    height: 90%;
+    padding: 5px;
+    background-color: white;
+    box-sizing: border-box;
+    display: flex;
+}
+
+.Logo img {
+    height: 100%;
+}
+
+.Logo p {
+    font-size: 30px;
+    font-weight: bold;
+    color: #009245;
+    margin: 0 10px;
+    display: flex;
+    align-items: center;
+}

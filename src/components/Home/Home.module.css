@@ -1,0 +1,51 @@
+.Figure1 {
+    width: 100%;
+    overflow: hidden;
+    margin: 0px;
+}
+
+.Figure2 {
+    position: relative;
+    width: 91%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.Image1 {
+    display: block;
+    width: 100%;
+    margin: -18% 0;
+}
+
+.Image2 {
+    display: block;
+    width: 100%;
+    margin: -19% 0;
+}
+
+.Text {
+    font-size: 120%;
+    width: 40%;
+    margin: auto;
+    padding: 25px 0;
+    text-align: justify;
+    line-height: 2;
+}
+
+.Title {
+    color: #14A329;
+    text-align: center;
+}
+
+.ImageText {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 27%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin: auto;
+    color: white;
+    transform: translate(-50%, -50%);
+}

@@ -1,0 +1,26 @@
+.Title {
+    color: #14A329;
+    text-align: center;
+    font-size: 200%;
+    margin-top: 80px;
+}
+
+.Text {
+    font-size: 120%;
+    width: 100%;
+    margin-bottom: 50px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.ServicesContainer {
+    display: flex;
+    max-width: 100%;
+    justify-content: center;
+    margin: 0 60px;
+}
+
+.RedSpan {
+    color: #E21C21;
+    font-weight: bold;
+}
